@@ -4,7 +4,7 @@
 #include <time.h>
 
 static const char *isimList[] = {"Cihat", "Ebru", "Burak", "Esra", "Seda", "Büşra"};//burada isimler kullanılmıs, değiştirilebilir ve yenileri eklenebilir
-static const char *nesneList[] = {"okula", "eve", "geneleve", "diskoya", "bara", "partiye"};
+static const char *nesneList[] = {"okula", "eve", "kütüphaneye", "yürüyüşe", "sahile", "koroya"};
 static const char *edatList[] = {"ancak", "yalnız", "da", "gibi", "diye"};
 static const char *fiilList[] = {"geldi", "gitti", "baktı", "gitmedi", "gelmedi", "bakmadı"};
 
