@@ -1,0 +1,2 @@
+# RandomSentenceGenerator
+Rasgele sayı üreterek cümle oluşturan bir program yazınız. Programınız, nesne, isim, fiil, edat isminde dört char tipinde gösterici dizisi kullansın. Programınız isim, nesne, edat, fiil sırasıyla bu dizilerden rasgele bir kelime seçerek bir cümle oluşturmalıdır. Bir kelime seçildiğindedizideki diğer kelimelerin sonuna eklenmelidir ve kelimeler birbirlerinden boşluklarla ayrılmalıdırlar. Programınız bu şekilde 20 cümle oluşturmalı.
